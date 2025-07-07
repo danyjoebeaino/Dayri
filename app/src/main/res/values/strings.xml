@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dayri</string>
+
+    <!-- Common -->
+    <string name="back">Back</string>
+    <string name="app_logo">App Logo</string>
+
+    <!-- Login -->
+    <string name="discover_lebanese_monasteries">Discover Lebanese Monasteries</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet">Don\'t have an account yet?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password_required">Password is required</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="user_not_found">No account found with this email</string>
+
+
+
+    <!-- Sign Up -->
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birthday">Birthday</string>
+    <string name="select_date">Select Date</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_number_hint">Enter phone number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Phone Verification -->
+    <string name="verification">Verification</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="verification_description">We have sent the verification code to your mobile number</string>
+    <string name="didnt_receive_code">Didn\'t receive the code?</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="resend_timer">Resend code in %1$d seconds</string>
+    <string name="verify">Verify</string>
+
+    <!-- Messages -->
+    <string name="email_password_required">Email and password are required</string>
+    <string name="all_fields_required">All fields are required</string>
+    <string name="passwords_dont_match">Passwords don\'t match</string>
+    <string name="login_successful">Login successful</string>
+    <string name="signup_successful">Sign up successful</string>
+    <string name="verification_successful">Verification successful</string>
+    <string name="error_occurred">An error occurred: %1$s</string>
+    <string name="code_sent">Verification code sent</string>
+    <string name="code_resent">Verification code resent</string>
+    <string name="enter_valid_code">Please enter a valid verification code</string>
+
+    <!-- Email Verification -->
+    <string name="email_verification">Email Verification</string>
+    <string name="email_verification_description">We have sent a verification link to your email. Please check your inbox and click the link to verify your account.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password_description">Enter your email address and we will send you instructions to reset your password.</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="email_required">Email is required</string>
+    <string name="reset_email_sent">Password reset email sent. Please check your inbox.</string>
+    <string name="reset_email_failed">Failed to send password reset email</string>
+    <string name="welcome_to_dayri">Welcome to Dayri</string>
+    <string name="explore_the_beautiful_monasteries_of_lebanon">Explore the beautiful monasteries of Lebanon</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Feedback -->
+    <string name="feedback">Feedback</string>
+    <string name="feedback_hint">Tell us what you think about the app</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="feedback_empty">Please enter your feedback</string>
+    <string name="feedback_submitted">Thank you for your feedback!</string>
+    <string name="feedback_error">Error submitting feedback</string>
+
+    <string name="please_wait">Please wait…</string>
+    <string name="search_monasteries">Search monasteries</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="clear_all">Clear All</string>
+    <string name="name">Name</string>
+    <string name="before_1800">Before 1800</string>
+    <string name="after_1800">After 1800</string>
+    <string name="no_monasteries_found">No monasteries found</string>
+    <string name="location">Location</string>
+</resources>

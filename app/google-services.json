@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013431557154",
+    "project_id": "dayri-90560",
+    "storage_bucket": "dayri-90560.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013431557154:android:b67642f8530ae1e81d3e7b",
+        "android_client_info": {
+          "package_name": "com.danyjoe.lebanesemonateries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtg0IZ2uixh6T6u2c1TPeicF_XXTn2fpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
